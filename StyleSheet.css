@@ -1,0 +1,38 @@
+h1  {
+    color: rgb(210, 28, 28);
+    font-size: 3em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: .3em;
+    text-align: center;
+    text-decoration: underline;}
+
+h2  {
+    color:rgb(222, 105, 105);
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    text-decoration: underline;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+.education {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.experience {
+    background-color: azure;
+    text-align: center;
+}
+
+.skills {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.tableau {
+    background-color: blanchedalmond;
+    text-align: center;
+}
